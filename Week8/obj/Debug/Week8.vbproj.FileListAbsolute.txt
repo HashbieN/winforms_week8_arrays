@@ -1,0 +1,16 @@
+C:\Users\User\Source\Repos\Week8\Week8\bin\Debug\Week8.exe.config
+C:\Users\User\Source\Repos\Week8\Week8\bin\Debug\Week8.exe
+C:\Users\User\Source\Repos\Week8\Week8\bin\Debug\Week8.pdb
+C:\Users\User\Source\Repos\Week8\Week8\bin\Debug\Week8.xml
+C:\Users\User\Source\Repos\Week8\Week8\obj\Debug\Week8.vbproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Week8\Week8\obj\Debug\Week8.vbproj.SuggestedBindingRedirects.cache
+C:\Users\User\Source\Repos\Week8\Week8\obj\Debug\Week8.Resources.resources
+C:\Users\User\Source\Repos\Week8\Week8\obj\Debug\Week8.vbproj.GenerateResource.cache
+C:\Users\User\Source\Repos\Week8\Week8\obj\Debug\Week8.vbproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Week8\Week8\obj\Debug\Week8.exe
+C:\Users\User\Source\Repos\Week8\Week8\obj\Debug\Week8.xml
+C:\Users\User\Source\Repos\Week8\Week8\obj\Debug\Week8.pdb
+C:\Users\User\Source\Repos\Week8\Week8\obj\Debug\Week8.E1_Array1.resources
+C:\Users\User\Source\Repos\Week8\Week8\obj\Debug\Week8.E2_Array2_Console.resources
+C:\Users\User\Source\Repos\Week8\Week8\obj\Debug\Week8.Ex1_Array_Listbox.resources
+C:\Users\User\Source\Repos\Week8\Week8\obj\Debug\Week8.Ex2_Array_Course.resources
